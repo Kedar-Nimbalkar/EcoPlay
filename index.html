@@ -823,7 +823,7 @@ function renderAdmin(){
     setTimeout(()=> {
       document.getElementById('doAdmin').addEventListener('click', ()=>{
         const pass = document.getElementById('adminPass').value;
-        if(pass === 'admin123'){ AppState.isAdmin = true; closeModal(); renderAdmin(); }
+        if(pass === 'Array_Avengers'){ AppState.isAdmin = true; closeModal(); renderAdmin(); }
         else alert('Wrong admin password (default: admin123)');
       });
     },50);
@@ -1028,4 +1028,5 @@ routeTo('home');
 
 </script>
 </body>
+
 </html>
