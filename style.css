@@ -13,7 +13,8 @@
 *{box-sizing:border-box}
 body{
   margin:0;
-  background:linear-gradient(180deg,#ecf7ee 0%, #f8faf8 100%);
+  font-face:Century Gothic;
+  background: linear-gradient(to right, #e0f7fa, #e8f5e9);
   color:#072018;
   -webkit-font-smoothing:antialiased;
   -moz-osx-font-smoothing:grayscale;
