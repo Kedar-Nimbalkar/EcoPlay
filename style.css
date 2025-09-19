@@ -13,7 +13,7 @@
 *{box-sizing:border-box}
 body{
   margin:0;
-  font-face:Century Gothic;
+  font-family:Century Gothic;
   background: linear-gradient(to right, #e0f7fa, #e8f5e9);
   color:#072018;
   -webkit-font-smoothing:antialiased;
